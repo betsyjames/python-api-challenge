@@ -11,15 +11,15 @@ Two Folder for each of the Challenges : WeatherPy and VacationPy
 
 Inside of WeatherPy, following are added:
 
-A new file called WeatherPy.ipynb.This will be the main script to run for the analysis.
-A "output_data" folder that contains the exported CSV files and the images for the scatter plots. 
-A file called "api_keys.py". Please enter your own key to run the code.
+1. A new file called WeatherPy.ipynb.This will be the main script to run for the analysis.
+2. A "output_data" folder that contains the exported CSV files and the images for the scatter plots. 
+3. A file called "api_keys.py". Please enter your own key to run the code.
 
 Inside of VacationPy, following are added:
 
-A file called VacationPy.ipynb.This will be the main script to run for the analysis.
-A file called "api_keys.py". Please enter your own key to run the code.
-Screenshots of the heat map and hotel with pin on top of the heat map taken from the jupyter notebook.
+1. A file called VacationPy.ipynb.This will be the main script to run for the analysis.
+2. A file called "api_keys.py". Please enter your own key to run the code.
+3. Screenshots of the heat map and hotel with pin on top of the heat map taken from the jupyter notebook.
 
 ## Instructions Followed
 
